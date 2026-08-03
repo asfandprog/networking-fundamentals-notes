@@ -68,14 +68,8 @@ traceroute google.com
 ## 📸 Screenshots
 
 This repository includes screenshots of networking commands executed in Kali Linux.
+![image alt](https://github.com/asfandprog/networking-fundamentals-notes/blob/171ba00c796f2ddd5552d346ecfc93ba86043fb2/ping%20google.com.png)
 
-/home/natasha/Pictures/networking screeshot/networking/ping google.com.png
-
-/home/natasha/Pictures/networking screeshot/networking/ip a.png
-
-/h/home/natasha/Pictures/networking screeshot/networking/nslookup.png
-
-/home/natasha/Pictures/networking screeshot/networking/ip -route. png
 
 ---
 
