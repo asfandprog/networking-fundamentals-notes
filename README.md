@@ -71,6 +71,7 @@ This repository includes screenshots of networking commands executed in Kali Lin
 ![image alt](https://github.com/asfandprog/networking-fundamentals-notes/blob/171ba00c796f2ddd5552d346ecfc93ba86043fb2/ping%20google.com.png) 
 ![image alt](https://github.com/asfandprog/networking-fundamentals-notes/blob/7ad775fa46406436bc4d1f8cab8f0fd1869d1aa4/nslookup.png) 
 ![image alt](https://github.com/asfandprog/networking-fundamentals-notes/blob/7c0fd9ffc1986836df4acea31f9ef6e12be7b912/ip%20a.png)
+![image alt](https://github.com/asfandprog/networking-fundamentals-notes/blob/00bbc9c0b9111761c759cb08c7d3d0011d6bc600/dig%20google.png)
 
 
 ---
